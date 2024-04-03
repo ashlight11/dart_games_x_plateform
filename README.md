@@ -1,6 +1,7 @@
 # dart_games_x_plateform
 
-A new Flutter project.
+A new Flutter projec : a darts score app !
+It is still very much a draft..
 
 ## Getting Started
 
